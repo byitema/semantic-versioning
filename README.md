@@ -1,4 +1,5 @@
 # Task
+Расширить реализацию класса Version (см. файл task_2.py), чтобы позволять использовать его для семантического сравнения.
 
 # Hint
 Regular expression is correct for the following types of versions:\
